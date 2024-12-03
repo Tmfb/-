@@ -1,0 +1,4 @@
+# Prettier ignored folders
+/dist
+/coverage
+/node_modules
